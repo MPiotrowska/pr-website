@@ -42,4 +42,8 @@ html {
       margin-bottom: 3px;
   }
 
+  .hidden {
+    display: none;
+  }
+
 
